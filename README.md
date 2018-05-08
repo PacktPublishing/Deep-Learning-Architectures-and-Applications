@@ -24,19 +24,20 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is a concise yet thorough introduction to GAN, RNN, word embeddings and deep learning technologies designed especially for software engineers and data scientists. Knowledge of Python is required for this course.
 ### Technical Requirements
 This course has the following software requirements:<br/>
+
 To be able to smoothly follow through the sections, you will need the following pieces of software:
 
-TensorFlow 1.0.0 or higher
-Keras 2.0.2 or higher
-Matplotlib 1.5.3 or higher
-Scikit-learn 0.18.1 or higher
-NumPy 1.12.1 or higher
+TensorFlow 1.0.0 or higher<br/>
+Keras 2.0.2 or higher<br/>
+Matplotlib 1.5.3 or higher<br/>
+Scikit-learn 0.18.1 or higher<br/>
+NumPy 1.12.1 or higher<br/>
 
-The hardware specifications are as follows:
-Either 32-bit or 64-bit architecture
-2+ GHz CPU
-4 GB RAM
-At least 10 GB of hard disk space available
+The hardware specifications are as follows:<br/>
+Either 32-bit or 64-bit architecture<br/>
+2+ GHz CPU<br/>
+4 GB RAM<br/>
+At least 10 GB of hard disk space available<br/>
 
 ## Related Products
 * [Deep Learning Architecture for Building Artificial Neural Networks [Video]](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-architecture-building-artificial-neural-networks-vi?utm_source=github&utm_medium=repository&utm_campaign=9781788395106)
