@@ -20,7 +20,6 @@ By the end of this video course, you will be able to transform words in text int
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
 This course is a concise yet thorough introduction to GAN, RNN, word embeddings and deep learning technologies designed especially for software engineers and data scientists. Knowledge of Python is required for this course.
 ### Technical Requirements
 This course has the following software requirements:<br/>
